@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/01f40be1-c98f-40d5-9c20-9343674a68de/deploy-status)](https://app.netlify.com/sites/real7estate/deploys)
